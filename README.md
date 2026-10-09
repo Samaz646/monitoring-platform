@@ -7,6 +7,26 @@ Monitoring Platform is a modular self-hosted monitoring project for heterogeneou
 
 The project currently consists of a central FastAPI-based server and a Windows agent. The architecture is designed to grow beyond Windows, with Linux agents, ESP32/IoT devices, network discovery and custom collectors planned.
 
+## Screenshots
+
+The screenshots below show the current WebGUI during development. Hostnames, addresses and identifiers have been anonymized.
+
+### Agent overview
+
+![Agent overview with connection and health status](screenshots/01-agents.png)
+
+### Agent details, health and policies
+
+![Agent details showing health checks, warnings, policies and collectors](screenshots/02-agents.png)
+
+### Server logs
+
+![Server log viewer with filters and HTTP request entries](screenshots/03-logs.png)
+
+### Server information
+
+![Server status, runtime, database and network information](screenshots/04-info.png)
+
 ## Current components
 
 | Component | Current version | Status |
