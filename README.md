@@ -11,10 +11,6 @@ The project currently consists of a central FastAPI-based server and a Windows a
 
 The screenshots below show the current WebGUI during development. Hostnames, addresses and identifiers have been anonymized.
 
-### Agent overview
-
-![Agent overview with connection and health status](screenshots/01-agents.png)
-
 ### Agent details, health and policies
 
 ![Agent details showing health checks, warnings, policies and collectors](screenshots/02-agents.png)
