@@ -90,9 +90,7 @@ Storage currently uses:
 
 ## Development status
 
-This is a private hobby project under active development. Interfaces, schemas and installation procedures may still change between releases.
-
-No commercial support, warranty or SLA is provided.
+Interfaces, schemas and installation procedures may still change between releases.
 
 See [ROADMAP.md](ROADMAP.md) for the planned direction and [SECURITY.md](SECURITY.md) for security-related guidance.
 
