@@ -1,5 +1,8 @@
 # Monitoring Platform
 
+> **Monitoring Platform is a private, non-commercial hobby project.**  
+> It is developed primarily for personal use, testing, experimentation and learning. It is not a commercial product and no commercial support, warranty or SLA is provided.
+
 Monitoring Platform is a modular self-hosted monitoring project for heterogeneous environments.
 
 The project currently consists of a central FastAPI-based server and a Windows agent. The architecture is designed to grow beyond Windows, with Linux agents, ESP32/IoT devices, network discovery and custom collectors planned.
@@ -87,7 +90,9 @@ Storage currently uses:
 
 ## Development status
 
-This project is under active development. Interfaces, schemas and installation procedures may still change between releases.
+This is a private hobby project under active development. Interfaces, schemas and installation procedures may still change between releases.
+
+No commercial support, warranty or SLA is provided.
 
 See [ROADMAP.md](ROADMAP.md) for the planned direction and [SECURITY.md](SECURITY.md) for security-related guidance.
 
